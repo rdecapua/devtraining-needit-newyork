@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 20:17:42</sys_created_on>
+        <sys_id>438f6daadbb00010a2e82706ca961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_justin_s_custom_table.x_58872_needit.justin_s_custom_table_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_justin_s_custom_table">078f6daadbb00010a2e82706ca96193d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_438f6daadbb00010a2e82706ca961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-01 20:17:42</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.justin_s_custom_table_user" name="x_58872_needit.justin_s_custom_table_user">7e8fed6adbb00010a2e82706ca96194c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>36a2e058db857b8007072f17d49619fc</instance_id>
+        <instance_name>dev82685</instance_name>
+        <name>sys_security_acl_role_438f6daadbb00010a2e82706ca961941</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-01 20:17:42</sys_created_on><sys_id>438f6daadbb00010a2e82706ca961941</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_justin_s_custom_table.x_58872_needit.justin_s_custom_table_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="x_58872_needit_justin_s_custom_table">078f6daadbb00010a2e82706ca96193d</sys_security_acl><sys_update_name>sys_security_acl_role_438f6daadbb00010a2e82706ca961941</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-01 20:17:42</sys_updated_on><sys_user_role display_value="x_58872_needit.justin_s_custom_table_user" name="x_58872_needit.justin_s_custom_table_user">7e8fed6adbb00010a2e82706ca96194c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-485680758</payload_hash>
+        <record_name>x_58872_needit_justin_s_custom_table.x_58872_needit.justin_s_custom_table_user</record_name>
+        <reverted_from/>
+        <source>5d3ca5e2dbb00010a2e82706ca961922</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 20:17:42</sys_created_on>
+        <sys_id>c38f6daadbb00010a2e82706ca961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e289dd5760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-01 20:17:42</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>0f8f6daa47b000108a3a76444d3e1a43</update_guid>
+        <update_guid_history>0f8f6daa47b000108a3a76444d3e1a43:-485680758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_justin_s_custom_table.x_58872_needit.justin_s_custom_table_user">813435eedbb00010a2e82706ca961993</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 20:38:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0bb239f5ae814fe8837af368a33af240</sys_id>
+        <sys_metadata>438f6daadbb00010a2e82706ca961941</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_justin_s_custom_table.x_58872_needit.justin_s_custom_table_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">078f6daadbb00010a2e82706ca96193d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_438f6daadbb00010a2e82706ca961941</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_438f6daadbb00010a2e82706ca961941">c38f6daadbb00010a2e82706ca961944</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-01 20:38:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
